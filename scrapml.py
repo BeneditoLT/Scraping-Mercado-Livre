@@ -22,7 +22,7 @@ def scrap():
                 f.write('\n')
                 
 
-url = 'https://lista.mercadolivre.com.br/_CustId_84594669'
+url = 'https://lista.mercadolivre.com.br/'
 
 headers = {
         'User-Agent' : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"}
