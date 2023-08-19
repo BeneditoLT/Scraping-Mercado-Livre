@@ -4,7 +4,7 @@ from requests.api import get
 
 def scrap():
         for item in range(0,int(j)):
-                
+                //teste
                 vendas = ''
                 vendas = ""
                 url2 = link[item].get('href')
